@@ -100,17 +100,16 @@
     
     
     <url>
-      <loc>https://example.com/</loc>
-      <lastmod>2016-04-20T00:00:00+00:00</lastmod>
-      <priority>0</priority>
+      <loc>https://example.com/publication/publication/</loc>
+      <lastmod>2013-04-04T00:00:00+00:00</lastmod>
     </url>
     
   
     
     
     <url>
-      <loc>https://example.com/tags/deep-learning/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <loc>https://example.com/</loc>
+      <lastmod>2016-04-20T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -125,22 +124,6 @@
     
   
     
-    
-  
-    
-    
-    <url>
-      <loc>https://example.com/tags/jekyll/</loc>
-      <lastmod>2014-03-10T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-      <loc>https://example.com/publication/publication/</loc>
-    </url>
     
   
     
