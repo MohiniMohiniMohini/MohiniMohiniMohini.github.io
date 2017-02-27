@@ -4,7 +4,7 @@
     
     
     <url>
-      <loc>/mohinipande.info/tags/academic/</loc>
+      <loc>/https/:mohinipande.info/tags/academic/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -12,7 +12,7 @@
     
     
     <url>
-      <loc>/mohinipande.info/post/</loc>
+      <loc>/https/:mohinipande.info/post/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -20,7 +20,7 @@
     
     
     <url>
-      <loc>/mohinipande.info/publication/</loc>
+      <loc>/https/:mohinipande.info/publication/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -28,7 +28,7 @@
     
     
     <url>
-      <loc>/mohinipande.info/talk/</loc>
+      <loc>/https/:mohinipande.info/talk/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -36,7 +36,7 @@
     
     
     <url>
-      <loc>/mohinipande.info/project/deep-learning/</loc>
+      <loc>/https/:mohinipande.info/project/deep-learning/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     </url>
     
@@ -44,7 +44,7 @@
     
     
     <url>
-      <loc>/mohinipande.info/project/example-external-project/</loc>
+      <loc>/https/:mohinipande.info/project/example-external-project/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     </url>
     
@@ -52,7 +52,7 @@
     
     
     <url>
-      <loc>/mohinipande.info/post/getting-started/</loc>
+      <loc>/https/:mohinipande.info/post/getting-started/</loc>
       <lastmod>2016-04-20T12:00:00+00:00</lastmod>
     </url>
     
@@ -60,7 +60,7 @@
     
     
     <url>
-      <loc>/mohinipande.info/post/widgets/</loc>
+      <loc>/https/:mohinipande.info/post/widgets/</loc>
       <lastmod>2016-04-20T11:00:00+00:00</lastmod>
     </url>
     
@@ -68,7 +68,7 @@
     
     
     <url>
-      <loc>/mohinipande.info/post/managing-content/</loc>
+      <loc>/https/:mohinipande.info/post/managing-content/</loc>
       <lastmod>2016-04-20T11:00:00+00:00</lastmod>
     </url>
     
@@ -76,7 +76,7 @@
     
     
     <url>
-      <loc>/mohinipande.info/post/writing-markdown-latex/</loc>
+      <loc>/https/:mohinipande.info/post/writing-markdown-latex/</loc>
       <lastmod>2016-04-20T10:00:00+00:00</lastmod>
     </url>
     
@@ -84,7 +84,7 @@
     
     
     <url>
-      <loc>/mohinipande.info/post/migrate-from-jekyll/</loc>
+      <loc>/https/:mohinipande.info/post/migrate-from-jekyll/</loc>
       <lastmod>2014-03-10T00:00:00+00:00</lastmod>
     </url>
     
@@ -92,7 +92,7 @@
     
     
     <url>
-      <loc>/mohinipande.info/publication/publication/</loc>
+      <loc>/https/:mohinipande.info/publication/publication/</loc>
       <lastmod>2013-04-04T00:00:00+00:00</lastmod>
     </url>
     
@@ -100,25 +100,7 @@
     
     
     <url>
-      <loc>/mohinipande.info/home/</loc>
-      <lastmod>2016-04-20T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-      <loc>/mohinipande.info/</loc>
-      <lastmod>2016-04-20T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-      <loc>/mohinipande.info/project/</loc>
+      <loc>/https/:mohinipande.info/tags/demo/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -127,7 +109,34 @@
     
     
     <url>
-      <loc>/mohinipande.info/tags/</loc>
+      <loc>/https/:mohinipande.info/home/</loc>
+      <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>/https/:mohinipande.info/</loc>
+      <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>/https/:mohinipande.info/project/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>/https/:mohinipande.info/tags/</loc>
       <priority>0</priority>
     </url>
     
